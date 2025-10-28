@@ -1,5 +1,5 @@
-import code1
-import helpers2
+import src.utils.code1 as code1
+import utils.helpers2 as helpers2
 
 print("starting app")
 
