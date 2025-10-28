@@ -4,7 +4,7 @@ import helpers2
 print("starting app")
 
 x = input("Enter your name: ")
-print("Hello " + x)
+print("Bonjour " + x)
 
 result = code1.add(5, 3)
 print("Result:", result)
